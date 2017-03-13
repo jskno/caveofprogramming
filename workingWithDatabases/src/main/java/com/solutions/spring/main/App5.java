@@ -15,6 +15,8 @@ import java.util.List;
  */
 public class App5
 {
+
+    // Testing @Transactional annotation
     public static void main( String[] args ) {
 
         ApplicationContext context = new AnnotationConfigApplicationContext(JavaConfig.class);
